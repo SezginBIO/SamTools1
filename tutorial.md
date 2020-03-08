@@ -91,3 +91,6 @@ _Answer_:
 
 - https://samtools.github.io/hts-specs/SAMv1.pdf
 
+For Soft and Hard Clipping;
+
+- https://davetang.org/wiki/tiki-index.php?page=SAM
