@@ -65,7 +65,7 @@ samtools view clean_AAGGA_007.sorted.bam "pchr05:10000-20000"
 ```
 
 # A Further Step
-- Do you want to detect SNPs or heterogeneity by using SAMtools? ,but HOW?
+- Do you want to detect SNPs-heterogeneity- by using SAMtools? ,but HOW?
   
 _Answer_:
 
