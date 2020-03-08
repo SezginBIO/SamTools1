@@ -31,7 +31,7 @@ These are the descriptions for the CIGAR string;
 1) Copy the tutorial material
 
 ```
-cp -r /cta/users/smengi/SamTools-Tutorial/
+cp -r /cta/users/smengi/SamTools-Tutorial SamTools-Tutorial
 ```
 
 2) Unzip the .gz files in Samtool-Tutorial directory
