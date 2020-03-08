@@ -49,7 +49,7 @@ sbatch Samtools_view.sh
 ```
 5) To see the data about alignment
 ```
-samtools flagstat file_name.bam
+samtools flagstat clean_AAGGA_007.bam
 ```
 6) To sort the .bam file
 ```
