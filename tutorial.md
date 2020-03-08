@@ -87,3 +87,7 @@ _Answer_:
    
    Li, H., Ruan, J., & Durbin, R. (2008). Mapping short DNA sequencing reads and calling variants using mapping quality scores. Genome research, 18(11), 1851–1858. https://doi.org/10.1101/gr.078212.108
 
+## The Useful Link
+
+- https://samtools.github.io/hts-specs/SAMv1.pdf
+
